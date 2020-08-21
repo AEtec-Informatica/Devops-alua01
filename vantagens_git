@@ -1,0 +1,12 @@
+Em termos de gestão,os DVCS contribuem para facilitar a missão das equipas de trabalho, de modo a
+que exerçam as suas tarefas da melhor forma, e vêm ajudar à redução de custos.
+Mas os principais benefícios deste tipo de opção estão relacionados com a distribuição do
+processamento, acarretando vantagens em termos de redundância e/ou replicação de repositórios e
+permitindo alargar as possibilidades de colaboração e parceria entre programadores.
+Confiabilidade: com um sistema centralizado, qualquer problema que surja no servidor vai parar
+todo o trabalho de desenvolvimento. Um sistema distribuído permite que a equipa continue a
+trabalhar e os repositórios dos programadores servem como cópias de backup, não havendo
+riscos de perder nada do projecto.
+Redução de custos com o servidor: o repositório "central" (se ele existir) funciona como
+repositório "oficial", ao invés de ter uma função de processador central dos pedidos. Assim, a
+carga de processamento é distribuída pelas máquinas dos programadores.
